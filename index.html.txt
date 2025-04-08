@@ -1,8 +1,0 @@
-<html>
-<head></head>
-<body>Nurullah Yaman
-      02220224037
-      Bu Bir Sınav Sayfasıdır
-</body>
-
-</html>
